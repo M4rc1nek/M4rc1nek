@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**M4rc1nek/M4rc1nek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m 16 years old and I’ve been programming since I was 10. I started with **C#**, creating small console programs and logic games, and quickly realized I love building things from scratch.  
 
-Here are some ideas to get you started:
+I explored **game development** in:  
+- Godot  
+- Unity  
+- Unreal Engine  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also became curious about how computers function under the hood — from hardware to networking and basic cybersecurity.  
+
+Nowadays, I focus on **backend development** using Java and the Spring ecosystem. I enjoy designing systems, implementing business logic, and building **real-world applications**.  
+I love learning, experimenting, and improving every day. Programming is something I genuinely enjoy.  
+
+Feel free to explore my GitHub and see what I’ve been working on!
