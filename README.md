@@ -13,3 +13,5 @@ Nowadays, I focus on **backend development** using Java and the Spring ecosystem
 I love learning, experimenting, and improving every day. Programming is something I genuinely enjoy.  
 
 Feel free to explore my GitHub and see what I’ve been working on!
+
+My portfolio: marcinparsniak.pl
