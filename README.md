@@ -30,7 +30,9 @@ Today, I focus on building real-world applications using Java and modern backend
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HQL](https://img.shields.io/badge/HQL-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPQL](https://img.shields.io/badge/JPQL-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🧠 Frameworks
 
