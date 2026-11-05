@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About me
 
-I'm 16 years old and I've been programming since I was 10.
+I'm 17 years old and I've been programming since I was 10.
 I started with C#, building small applications and quickly got interested in creating things from scratch. I also briefly explored game development (Godot, Unity, Unreal Engine), but over time I shifted towards backend development and system design.
 Today, I focus on building real-world applications using Java and modern backend technologies.
 
